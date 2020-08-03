@@ -66,16 +66,16 @@ const Register = () => {
               </select>
               <select className="form-control mb-3" id="subjectList" style={{ display: 'none' }}>
                 <option> -- Select Subject -- </option>
-                <option>Star</option>
-                <option>Teacher</option>
-                <option>Doctor</option>
-                <option>Gym</option>
-                <option>Yoga</option>
-                <option>Chef</option>
-                <option>Gamer</option>
-                <option>Artist</option>
-                <option>Fashion</option>
-                <option>Farmer</option>
+                <option>Subject1</option>
+                <option>Subject2</option>
+                <option>Subject3</option>
+                <option>Subject4</option>
+                <option>Subject5</option>
+                <option>Subject6</option>
+                <option>Subject7</option>
+                <option>Subject8</option>
+                <option>Subject9</option>
+                <option>Subject10</option>
               </select>
               <div className="form-group">
                 <div className="col-md-12 p-0">
